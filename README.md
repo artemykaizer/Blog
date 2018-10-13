@@ -1,4 +1,5 @@
-# create-react-app with a Node server on Heroku
+### Homepage - https://bl0gg.herokuapp.com/<br>
+Stack - Node.js, Express, MongoDB, React, Bootstrap
 
 A minimal example of using a Node backend (server for API, proxy, & routing) with a [React frontend](https://github.com/facebookincubator/create-react-app).
 
